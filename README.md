@@ -26,5 +26,4 @@ writing clean code, and solving complex problems.
 - GitHub: https://github.com/YOUR_USERNAME
 
 ---
-
 ⭐ Thanks for visiting my profile!
